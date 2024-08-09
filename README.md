@@ -73,5 +73,5 @@
     <footer>
         <p>&copy; 2024 Wittyhyde. All rights reserved.</p>
     </footer>
-</body>
+</body> 
 </html>
